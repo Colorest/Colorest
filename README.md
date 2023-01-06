@@ -1,5 +1,5 @@
 <img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Colorest!;A+Coder.;">
-<h1 align="center">Hi 👋, I'm Colt Orest(Colorest)</h1>
+<h1 align="center">Hi 👋, I'm Colorest</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
